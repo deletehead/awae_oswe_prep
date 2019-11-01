@@ -13,9 +13,20 @@ class List {
     }
     else {
       // Not first play, normal run:
+      // 1. Get logic ready to compare letters
       String lastWord = words[sizeWords-1];
       char lastLetterOfLastWord = lastWord.charAt(lastWord.length()-1);
       char firstLetterOfNewWord = word.charAt(0);
+      // 2. Check if this word is in list
+      boolean alreadyInList = false;
+      for (int i; i < sizeWords; i++) {
+        if (word == words.get(i)) {
+          alreadyInList = true;
+        }
+        System.out.println("Does "+word+" == "+words.get(i)+"? "+alreadyInList);
+      }
+
+      // Now logic checks if 2 conditions r met
       if (lastLetterOfLastWord == firstLetterOfNewWord) {
         words.add(word);
       }

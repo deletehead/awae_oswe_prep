@@ -31,7 +31,7 @@ All efforts for the AWAE course and preparation for the Offensive Security Web E
      * [x] Java
      * [x] JavaScript
      * [x] PHP
-     * [ ] C#
+     * [x] C#
 
 ## Course Completion
 Taken from publicly-available syllabus.
@@ -50,37 +50,37 @@ Taken from publicly-available syllabus.
    * [x] 3.3.1 Exercise - Vuln Discovery
    * [x] 3.4.1 Exercise - Session Hijack
    * [x] 3.5.4 Exercise - Session Riding
-   * [ ] 3.5.5 Extra Mile - Session Riding
+   * [x] 3.5.5 Extra Mile - Session Riding
    * [x] 3.6.5 Exercise - globalsaveAction Vuln Analysis
    * [x] 3.6.7 Exercise - Make it fully automagical
-   * [ ] 3.6.8 Extra Mile
+   * [x] 3.6.8 Extra Mile
    * [ ] 3.6.8 Extra Mile - Also see if you can background it completely
- * [ ] 4. ATutor Auth Bypass and RCE
+ * [x] 4. ATutor Auth Bypass and RCE
    * [x] Videos
    * [x] Read/Notes
    * [x] 4.3.1 Exercise - Vuln Discovery
    * [x] 4.6.3 Exercise - Data Exfil
-   * [ ] 4.6.4 Extra Mile - Data Exfil
+   * [x] 4.6.4 Extra Mile - Data Exfil
    * [x] 4.7.1 Exercise - ATutor Auth
-   * [ ] 4.7.2 Extra Mile - ATutor Auth
+   * [x] 4.7.2 Extra Mile - ATutor Auth
    * [x] 4.8.1 Exercise - ATutor Auth
-   * [ ] 4.8.2 Extra Mile - ATutor Auth
+   * [x] 4.8.2 Extra Mile - ATutor Auth
    * [x] 4.9.1 Exercise - File Upload
    * [x] 4.10.5 Exercise - RCE
-   * [ ] 4.10.6 Extra Mile - RCE
- * [ ] 5. ATutor LMS Type Juggling Vuln
+   * [x] 4.10.6 Extra Mile - RCE
+ * [x] 5. ATutor LMS Type Juggling Vuln
    * [x] Videos
    * [x] Read/Notes
    * [x] 5.4.1 Exercise - String Conversion
    * [x] 5.6.3 Exercise - Loose Comparison
-   * [ ] 5.6.4 Extra Mile - Loose Comparison
+   * [x] 5.6.4 Extra Mile - Loose Comparison
  * [ ] 6. ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE
    * [x] Videos
    * [x] Read/Notes
    * [x] 6.3.6 Exercise - Vuln Discovery
    * [x] 6.5.1 Exercise - Blind Bats
    * [x] 6.6.1 Exercise - Access FS
-   * [ ] 6.6.3 Exercise - VBS file [!! Need to do the batch! Got the reverse shell... !!]
+   * [x] 6.6.3 Exercise - VBS file [!! Need to do the batch! Got the reverse shell... !!]
    * [ ] 6.6.4 Extra Mile - Shell via JSP
    * [x] 6.7.4 Exercise - PostgreSQL Extensions
    * [x] 6.8.1 Exercise - UDF Reverse Shell
@@ -92,14 +92,14 @@ Taken from publicly-available syllabus.
    * [x] 7.6.1 Exercise - RevShell
    * [ ] 7.6.2 Extra Miles - RevShell
  * [ ] 8. 
-   * [ ] Videos
-   * [ ] Read/Notes
-   * [ ] 8.4.3 Exercise - Serialization Basics
-   * [ ] 8.4.5 Exercise - Serialization Basics
-   * [ ] 8.4.7 Exercise - Serialization Basics
-   * [ ] 8.5.3 Exercise - DNN Vuln Analysis
-   * [ ] 8.6.4 Exercise - Payload Options
-   * [ ] 8.6.7 Exercise - Payload Options
-   * [ ] 8.7.1 Exercise - Payload Options
+   * [x] Videos
+   * [x] Read/Notes
+   * [x] 8.4.3 Exercise - Serialization Basics
+   * [x] 8.4.5 Exercise - Serialization Basics
+   * [x] 8.4.7 Exercise - Serialization Basics
+   * [x] 8.5.3 Exercise - DNN Vuln Analysis
+   * [x] 8.6.4 Exercise - Payload Options
+   * [x] 8.6.7 Exercise - Payload Options
+   * [x] 8.7.1 Exercise - Payload Options
    * [ ] 8.8.1 Extra Miles - Y SO SERIAL? .NET
-   * [ ] 8.8.2 Extra Miles - Y SO SERIAL? Java
+   * [x] 8.8.2 Extra Miles - Y SO SERIAL? Java

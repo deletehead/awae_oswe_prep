@@ -20,11 +20,11 @@ All efforts for the AWAE course and preparation for the Offensive Security Web E
        * Use vuln apps first to help develop custom regex tools for SAST: Webgoat (Java), JuiceShop (JavaScript), Mutillidae (PHP), .NETGoat (C#)
        * Check out an app in each relevant language that may not have had any security review done. Try to find some vulns and get some CVEs!! 
          * Check for the main suspects as taught in the course for each app, timebox it, and move on to another one. 
-       * Make sure to pay attn to app architecture, request routing, etc in each language
-       [ ] Java
-       [ ] JavaScript (node.js)
-       [ ] PHP
-       [ ] C#/.NET
+       * Make sure to pay attn to app architecture, request routing, etc in each language:
+         * [ ] Java
+         * [ ] JavaScript (node.js)
+         * [ ] PHP
+         * [ ] C#/.NET
    * HackTheBox and CTFs (see wetw0rk's prep guide)
      * SecureCodeWarrior (see bookmark in AWAE)
    * Codecademy courses

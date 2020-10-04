@@ -85,13 +85,13 @@ Taken from publicly-available syllabus.
    * [x] 6.7.4 Exercise - PostgreSQL Extensions
    * [x] 6.8.1 Exercise - UDF Reverse Shell
    * [x] 6.9.3 Exercise - Moar Shells
-   * [ ] 6.9.4 Extra Miles - Moar Shells
+   * [ ] 6.9.4 Extra Mile - Moar Shells
  * [ ] 7. Bassmaster NodeJS Arbitrary JavaScript Injection Vulnerability
    * [x] Videos
    * [x] Read/Notes
    * [x] 7.6.1 Exercise - RevShell
-   * [ ] 7.6.2 Extra Miles - RevShell
- * [ ] 8. 
+   * [ ] 7.6.2 Extra Mile - RevShell
+ * [ ] 8. DotNetNuke Deserialization RCE
    * [x] Videos
    * [x] Read/Notes
    * [x] 8.4.3 Exercise - Serialization Basics
@@ -101,5 +101,52 @@ Taken from publicly-available syllabus.
    * [x] 8.6.4 Exercise - Payload Options
    * [x] 8.6.7 Exercise - Payload Options
    * [x] 8.7.1 Exercise - Payload Options
-   * [ ] 8.8.1 Extra Miles - Y SO SERIAL? .NET
-   * [x] 8.8.2 Extra Miles - Y SO SERIAL? Java
+   * [ ] 8.8.1 Extra Mile - Y SO SERIAL? .NET
+   * [x] 8.8.2 Extra Mile - Y SO SERIAL? Java
+ * [ ] 9. ERPNext Authentication Bypass and Server Side Template Injection
+   * [x] Videos
+   * [ ] Read/Notes
+   * [ ] 9.1.1.1 Exercise - Configure Kali SMTPd server
+   * [ ] 9.1.2.1 Exercise - Configure remote debugging
+   * [ ] 9.1.3.1 Exercise - Configure MariaDB logging
+   * [ ] 9.2.3.2 Exercise - Find whitelisted functions
+   * [ ] 9.3.1.2 Exercises - SQLi
+   * [ ] 9.4.2.1 Exercises - Access the admin acct
+   * [ ] 9.5.2.1 Exercise - Find the SSTI
+   * [ ] 9.5.2.2 Extra Mile - Find another instance of SSTI
+   * [ ] 9.5.3.1 Exercise - Recreate the `__class__` rendering
+   * [ ] 9.5.3.2 Extra Mile - Alternative filter bypass
+   * [ ] 9.6.1.1 Exercises - Recreate the filter bypass and exploit and find other classes to own
+   * [ ] 9.6.2.1 Exercises - Recreate RCE and get shell
+   * [ ] 9.6.2.2 Extra Mile - Get output to display
+ * [ ] 10. openCRX Authentication Bypass and Remote Code Execution
+   * [x] Videos
+   * [ ] Read/Notes
+   * [ ] 10.2.1.1 Exercise - Recreate the Rando and SecureRando
+   * [ ] 10.2.4.1 Exercise - Generate a token list
+   * [ ] 10.2.4.2 Extra Mile - Update token program to take start/stop
+   * [ ] 10.2.5.2 Exercises - Reset password
+   * [ ] 10.2.5.3 Extra Mile - Automate the attack chain
+   * [ ] 10.3.6.2 Exercises - Recreate the XXE attack
+   * [ ] 10.3.6.3 Extra Mile - Script to parse XXE results
+   * [ ] 10.3.8.1 Exercise - Implement the "wrapper" payload
+   * [ ] 10.3.9.2 Exercise - Connect to HSQLDB
+   * [ ] 10.4.1.1 Exercises - Write file and confirm
+   * [ ] 10.4.2.1 Exercise - Find dir with JSP files
+   * [ ] 10.4.3.1 Exercises - Get. That. Shell.
+ * [ ] 11. openITCOCKPITXSSandOSCommandInjection - Blackbox
+   * [x] Videos
+   * [ ] Read/Notes
+   * [ ] 11.5.1 Exercise - Recreate the XSS
+   * [ ] 11.6.2.1 Exercises - DOM rewrite
+   * [ ] 11.6.2.2 Extra Mile - Prevent new page load
+   * [ ] 11.6.3.1 Exercises - Finish the script and initialize the DB
+   * [ ] 11.6.4.1 Exercises - Finish the API script and get a fake login page with the XSS
+   * [ ] 11.6.4.2 Extra Mile - Add cookie functionality
+   * [ ] 11.6.5.1 Exercises - Exploit the XSS
+   * [ ] 11.6.5.2 Extra Miles - Beef up dat XSS
+   * [ ] 11.6.6.1 Exercise - Dump the SQLite DB
+   * [ ] 11.7.4.1 Exercise - Fuzz and find cmds
+   * [ ] 11.7.5.1 Exercise - Test cmd injection
+   * [ ] 11.7.6.1 Exercise - Get a meterpreter shell
+   * [ ] 10.7.7 Extra Mile - Get RCE via administrator session

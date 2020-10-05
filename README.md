@@ -108,7 +108,7 @@ Taken from publicly-available syllabus.
    * [ ] Read/Notes
    * [x] 9.1.1.1 Exercise - Configure Kali SMTPd server
    * [x] 9.1.2.1 Exercise - Configure remote debugging
-   * [ ] 9.1.3.1 Exercise - Configure MariaDB logging
+   * [x] 9.1.3.1 Exercise - Configure MariaDB logging
    * [ ] 9.2.3.2 Exercise - Find whitelisted functions
    * [ ] 9.3.1.2 Exercises - SQLi
    * [ ] 9.4.2.1 Exercises - Access the admin acct

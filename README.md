@@ -106,7 +106,7 @@ Taken from publicly-available syllabus.
  * [ ] 9. ERPNext Authentication Bypass and Server Side Template Injection
    * [x] Videos
    * [ ] Read/Notes
-   * [ ] 9.1.1.1 Exercise - Configure Kali SMTPd server
+   * [x] 9.1.1.1 Exercise - Configure Kali SMTPd server
    * [ ] 9.1.2.1 Exercise - Configure remote debugging
    * [ ] 9.1.3.1 Exercise - Configure MariaDB logging
    * [ ] 9.2.3.2 Exercise - Find whitelisted functions

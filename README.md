@@ -111,7 +111,7 @@ Taken from publicly-available syllabus.
    * [x] 9.1.3.1 Exercise - Configure MariaDB logging
    * [x] 9.2.3.2 Exercise - Find whitelisted functions
    * [x] 9.3.1.2 Exercises - SQLi
-   * [ ] 9.4.2.1 Exercises - Access the admin acct
+   * [x] 9.4.2.1 Exercises - Access the admin acct
    * [ ] 9.5.2.1 Exercise - Find the SSTI
    * [ ] 9.5.2.2 Extra Mile - Find another instance of SSTI
    * [ ] 9.5.3.1 Exercise - Recreate the `__class__` rendering

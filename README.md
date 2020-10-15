@@ -114,10 +114,10 @@ Taken from publicly-available syllabus.
    * [x] 9.4.2.1 Exercises - Access the admin acct
    * [x] 9.5.2.1 Exercise - Find the SSTI
    * [ ] 9.5.2.2 Extra Mile - Find another instance of SSTI
-   * [ ] 9.5.3.1 Exercise - Recreate the `__class__` rendering
+   * [x] 9.5.3.1 Exercise - Recreate the `__class__` rendering
    * [ ] 9.5.3.2 Extra Mile - Alternative filter bypass
-   * [ ] 9.6.1.1 Exercises - Recreate the filter bypass and exploit and find other classes to own
-   * [ ] 9.6.2.1 Exercises - Recreate RCE and get shell
+   * [x] 9.6.1.1 Exercises - Recreate the filter bypass and exploit and find other classes to own
+   * [x] 9.6.2.1 Exercises - Recreate RCE and get shell
    * [ ] 9.6.2.2 Extra Mile - Get output to display
  * [ ] 10. openCRX Authentication Bypass and Remote Code Execution
    * [x] Videos

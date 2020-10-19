@@ -122,7 +122,7 @@ Taken from publicly-available syllabus.
  * [ ] 10. openCRX Authentication Bypass and Remote Code Execution
    * [x] Videos
    * [ ] Read/Notes
-   * [ ] 10.2.1.1 Exercise - Recreate the Rando and SecureRando
+   * [x] 10.2.1.1 Exercise - Recreate the Rando and SecureRando
    * [ ] 10.2.4.1 Exercise - Generate a token list
    * [ ] 10.2.4.2 Extra Mile - Update token program to take start/stop
    * [ ] 10.2.5.2 Exercises - Reset password

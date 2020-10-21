@@ -123,11 +123,11 @@ Taken from publicly-available syllabus.
    * [x] Videos
    * [ ] Read/Notes
    * [x] 10.2.1.1 Exercise - Recreate the Rando and SecureRando
-   * [ ] 10.2.4.1 Exercise - Generate a token list
+   * [x] 10.2.4.1 Exercise - Generate a token list
    * [ ] 10.2.4.2 Extra Mile - Update token program to take start/stop
-   * [ ] 10.2.5.2 Exercises - Reset password
+   * [x] 10.2.5.2 Exercises - Reset password
    * [ ] 10.2.5.3 Extra Mile - Automate the attack chain
-   * [ ] 10.3.6.2 Exercises - Recreate the XXE attack
+   * [x] 10.3.6.2 Exercises - Recreate the XXE attack
    * [ ] 10.3.6.3 Extra Mile - Script to parse XXE results
    * [ ] 10.3.8.1 Exercise - Implement the "wrapper" payload
    * [ ] 10.3.9.2 Exercise - Connect to HSQLDB

@@ -130,7 +130,7 @@ Taken from publicly-available syllabus.
    * [x] 10.3.6.2 Exercises - Recreate the XXE attack
    * [ ] 10.3.6.3 Extra Mile - Script to parse XXE results
    * [x] 10.3.8.1 Exercise - Implement the "wrapper" payload
-   * [ ] 10.3.9.2 Exercise - Connect to HSQLDB
+   * [x] 10.3.9.2 Exercise - Connect to HSQLDB
    * [ ] 10.4.1.1 Exercises - Write file and confirm
    * [ ] 10.4.2.1 Exercise - Find dir with JSP files
    * [ ] 10.4.3.1 Exercises - Get. That. Shell.

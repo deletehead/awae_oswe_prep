@@ -137,11 +137,11 @@ Taken from publicly-available syllabus.
  * [ ] 11. openITCOCKPITXSSandOSCommandInjection - Blackbox
    * [x] Videos
    * [ ] Read/Notes
-   * [ ] 11.5.1 Exercise - Recreate the XSS
+   * [x] 11.5.1 Exercise - Recreate the XSS
    * [ ] 11.6.2.1 Exercises - DOM rewrite
    * [ ] 11.6.2.2 Extra Mile - Prevent new page load
-   * [ ] 11.6.3.1 Exercises - Finish the script and initialize the DB
-   * [ ] 11.6.4.1 Exercises - Finish the API script and get a fake login page with the XSS
+   * [x] 11.6.3.1 Exercises - Finish the script and initialize the DB
+   * [x] 11.6.4.1 Exercises - Finish the API script and get a fake login page with the XSS
    * [ ] 11.6.4.2 Extra Mile - Add cookie functionality
    * [ ] 11.6.5.1 Exercises - Exploit the XSS
    * [ ] 11.6.5.2 Extra Miles - Beef up dat XSS

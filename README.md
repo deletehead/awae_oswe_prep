@@ -138,7 +138,7 @@ Taken from publicly-available syllabus.
    * [x] Videos
    * [ ] Read/Notes
    * [x] 11.5.1 Exercise - Recreate the XSS
-   * [ ] 11.6.2.1 Exercises - DOM rewrite
+   * [x] 11.6.2.1 Exercises - DOM rewrite
    * [ ] 11.6.2.2 Extra Mile - Prevent new page load
    * [x] 11.6.3.1 Exercises - Finish the script and initialize the DB
    * [x] 11.6.4.1 Exercises - Finish the API script and get a fake login page with the XSS
@@ -146,7 +146,7 @@ Taken from publicly-available syllabus.
    * [ ] 11.6.5.1 Exercises - Exploit the XSS
    * [ ] 11.6.5.2 Extra Miles - Beef up dat XSS
    * [ ] 11.6.6.1 Exercise - Dump the SQLite DB
-   * [ ] 11.7.4.1 Exercise - Fuzz and find cmds
-   * [ ] 11.7.5.1 Exercise - Test cmd injection
+   * [x] 11.7.4.1 Exercise - Fuzz and find cmds
+   * [x] 11.7.5.1 Exercise - Test cmd injection
    * [ ] 11.7.6.1 Exercise - Get a meterpreter shell
    * [ ] 10.7.7 Extra Mile - Get RCE via administrator session
